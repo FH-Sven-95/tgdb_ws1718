@@ -58,7 +58,7 @@ Gebe alle Datensätze der Tabelle `ACCOUNT` aus.
 
 #### Lösung
 ```sql
-Deine Lösung
+Select * from account;
 ```
 
 ### Aufgabe 8
@@ -66,7 +66,7 @@ Modifiziere Aufgabe 7 so, dass nur die Spalte `ACCOUNT_ID` ausgegeben wird.
 
 #### Lösung
 ```sql
-Deine Lösung
+select account_id from account;
 ```
 
 ### Aufgabe 9
@@ -74,7 +74,7 @@ Gebe alle Spalten der Tabelle `VEHICLE` aus.
 
 #### Lösung
 ```sql
-Deine Lösung
+select * from vehicle;
 ```
 
 ### Aufgabe 10
